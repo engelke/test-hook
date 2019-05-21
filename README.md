@@ -1,2 +1,2 @@
 # test-hook
-Try the signature. AGAIN.
+Someday my simple cloud function will actually work.
