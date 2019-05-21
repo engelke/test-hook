@@ -1,2 +1,4 @@
 # test-hook
-Someday my simple cloud function will actually work.
+Watch me pull a rabbit out of my hat.
+
+This time for sure!
