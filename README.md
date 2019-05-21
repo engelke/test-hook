@@ -1,2 +1,2 @@
 # test-hook
-Simplify the repo.
+Simplify the repo. Or not.
